@@ -1,0 +1,14 @@
+Server: Apache
+Content-Type: text/html; charset=UTF-8
+Set-Cookie: paywall=v0001~exp=1511984831~acl=%2f*~data=ut%3d1~hmac=a6b9a8eafbed3c543678b30c24c49296bf449f4df6fe60f2d4c20ef160f6ed96; path=/
+Vary: Accept-Encoding
+X-Ez-Web: mol14n014
+X-Ua-Compatible: IE=edge
+Surrogate-Control: content="ESI/1.0"
+Content-Language: de-DE
+Served-By: www.lvz.de
+Content-Encoding: gzip
+Expires: Mon, 30 Oct 2017 19:47:11 GMT
+Cache-Control: max-age=0, no-cache, no-store
+Pragma: no-cache
+Date: Mon, 30 Oct 2017 19:47:11 GMT

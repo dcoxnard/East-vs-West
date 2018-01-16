@@ -1,0 +1,11 @@
+Server: nginx
+Content-Type: text/html;charset=utf-8
+Last-Modified: Sun, 29 Oct 2017 23:42:31 GMT
+P3P: policyref="/w3c/p3p.xml", CP="NOI DSP CURa ADMa DEVa TAIi PSAi PSDi OUR STP UNI COM NAV INT STA PRE"
+Cache-Control: max-age=60, public
+Content-Encoding: gzip
+X-Age: 31
+Vary: Accept-Encoding
+Accept-Ranges: bytes
+Date: Sun, 29 Oct 2017 23:43:03 GMT
+Set-Cookie: srvid=b9b87e7133ba714d0c164028595a7b3e; expires=Mon, 30-Oct-17 01:43:03 GMT; domain=.faz.net; path=/

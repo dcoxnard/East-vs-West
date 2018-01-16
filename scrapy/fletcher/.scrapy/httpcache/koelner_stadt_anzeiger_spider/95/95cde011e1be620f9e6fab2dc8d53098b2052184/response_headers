@@ -1,0 +1,10 @@
+Content-Security-Policy: block-all-mixed-content; default-src data: https: 'unsafe-inline'  'unsafe-eval';
+X-Document-Type: article
+Content-Type: text/html;charset=UTF-8
+Content-Language: de-DE
+Content-Encoding: gzip
+Cneonction: close
+Accept-Ranges: bytes
+Cache-Control: max-age=1800
+Date: Mon, 30 Oct 2017 00:15:53 GMT
+Vary: Accept-Encoding

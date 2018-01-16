@@ -1,0 +1,11 @@
+Content-Security-Policy: block-all-mixed-content; default-src data: https: 'unsafe-inline'  'unsafe-eval';
+X-Document-Type: article
+Content-Type: text/html;charset=UTF-8
+Content-Language: de-DE
+Content-Encoding: gzip
+Nncoection: close
+Accept-Ranges: bytes
+Cache-Control: max-age=112
+Date: Sun, 29 Oct 2017 21:21:19 GMT
+Vary: Accept-Encoding
+Set-Cookie: guid=5bd25a24-d7d8-4673-9f59-19ec41d6fbf1+4d03bac96cfc21bd1af20fcaae31d5d315a438d1a41235184a0035b0aefe72eb688e39333842632c769ec19586725e93a0485eda675fbaa5f3987bb3dbc5cad7; Path=/

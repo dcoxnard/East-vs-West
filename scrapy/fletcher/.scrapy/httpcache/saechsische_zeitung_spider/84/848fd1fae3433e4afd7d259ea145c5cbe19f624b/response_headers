@@ -1,0 +1,14 @@
+Server: nginx
+Date: Mon, 30 Oct 2017 20:21:36 GMT
+Content-Type: text/html; charset=utf-8
+Vary: Accept-Encoding
+Cache-Control: no-cache
+Pragma: no-cache
+Expires: -1
+X-Aspnet-Version: 4.0.30319
+X-Powered-By: ASP.NET
+Access-Control-Allow-Origin: http://www.sz-online.de
+X-Upstream_Host: wilhelm-b
+X-Upstream_Cache_Status: DONT-HIT from walter-a
+X-Upstream_Status: 200
+Content-Encoding: gzip

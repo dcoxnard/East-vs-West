@@ -1,0 +1,8 @@
+Server: nginx
+Date: Mon, 30 Oct 2017 20:20:56 GMT
+Location: /abo/sz-exklusiv?u=http%3a%2f%2fwww.sz-online.de%2fratgeber%2fwie-erkenne-ich-ob-mein-kind-zum-arzt-muss-3806080.html
+X-Powered-By: ASP.NET
+Access-Control-Allow-Origin: http://www.sz-online.de
+X-Upstream_Host: wilhelm-c
+X-Upstream_Cache_Status: DONT-HIT from walter-a
+X-Upstream_Status: 302

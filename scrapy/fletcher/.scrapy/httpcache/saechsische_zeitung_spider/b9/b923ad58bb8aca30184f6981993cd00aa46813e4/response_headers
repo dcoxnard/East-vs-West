@@ -1,0 +1,16 @@
+Server: nginx
+Date: Mon, 30 Oct 2017 20:19:52 GMT
+Content-Type: text/html; charset=utf-8
+Vary: Accept-Encoding
+Vary: *
+Cache-Control: public, no-cache="Set-Cookie", max-age=120
+Expires: Mon, 30 Oct 2017 20:21:52 GMT
+Last-Modified: Mon, 30 Oct 2017 20:19:52 GMT
+Set-Cookie: ASP.NET_SessionId=3irxt3je3kpibenmpbeqbfqi; path=/; HttpOnly
+X-Aspnet-Version: 4.0.30319
+X-Powered-By: ASP.NET
+Access-Control-Allow-Origin: http://www.sz-online.de
+X-Upstream_Host: wilhelm-b
+X-Upstream_Cache_Status: DONT-HIT from walter-a
+X-Upstream_Status: 200
+Content-Encoding: gzip

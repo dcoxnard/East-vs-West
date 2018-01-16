@@ -1,0 +1,12 @@
+Server: ovws
+Location: http://www.badische-zeitung.de/ratgeber/
+Vary: Accept-Encoding
+Content-Encoding: gzip
+Content-Type: text/html; charset=iso-8859-1
+X-Cacheable: YES
+Date: Mon, 30 Oct 2017 21:42:51 GMT
+X-Varnish: 1960269644 1960215392
+Age: 483
+Via: 1.1 varnish
+X-Cache: HIT
+X-Cache-Hits: 4

@@ -1,0 +1,12 @@
+Date: Mon, 30 Oct 2017 21:12:34 GMT
+Content-Type: text/html
+Cache-Control: no-cache, no-store, must-revalidate
+Cache-Control: public, max-age=600
+Expires: Thu, 01 Jan 1970 00:00:00 GMT
+Pragma: no-cache
+Vary: Accept-Encoding, User-Agent
+Content-Encoding: gzip
+Via: 1.1 varnish-v4
+X-Varnish: 770169805 773400357
+Age: 301
+Location: https://www.stuttgarter-zeitung.de/inhalt.unitymedia-grossflaechige-telefonstoerung-im-suedwesten.835b1c70-1885-43e9-8b1b-6a5675c13e9b.html?reduced=true

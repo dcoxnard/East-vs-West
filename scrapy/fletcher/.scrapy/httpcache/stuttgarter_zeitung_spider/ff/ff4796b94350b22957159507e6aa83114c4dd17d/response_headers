@@ -1,0 +1,11 @@
+Content-Security-Policy: block-all-mixed-content; default-src data: https: 'unsafe-inline'  'unsafe-eval';
+X-Document-Type: page
+Last-Modified: Wed, 25 Oct 2017 08:23:48 GMT
+Content-Type: text/html;charset=UTF-8
+Content-Language: en
+Content-Encoding: gzip
+Nncoection: close
+Cache-Control: max-age=3554
+Date: Mon, 30 Oct 2017 21:03:24 GMT
+Vary: Accept-Encoding
+Set-Cookie: NSC_eno_xxx.cfub.ltub.ef=ffffffffda4d4d2345525d5f4f58455e445a4a423660;Version=1;path=/;secure;httponly

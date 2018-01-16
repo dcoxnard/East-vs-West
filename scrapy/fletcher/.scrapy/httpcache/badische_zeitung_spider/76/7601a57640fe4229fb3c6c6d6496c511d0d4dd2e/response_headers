@@ -1,0 +1,17 @@
+Server: ovws
+Set-Cookie: PHPSESSID=6240596601cb350b35fd2827d0067f9a76e7c59e00; path=/
+Set-Cookie: stadtBox=640; expires=Tue, 30-Oct-2018 21:39:18 GMT; path=/; domain=www.badische-zeitung.de
+Set-Cookie: UA=WfecBwABaO5%2BYjKAJEN%2BWxLG8Z0WMOf4O4N%2Bwvf%2BC4s%3D; expires=Mon, 06-Nov-2017 21:39:18 GMT; path=/
+Expires: Wed, 09 Feb 1977 17:24:00 GMT
+Cache-Control: no-store, no-cache, must-revalidate, post-check=0, pre-check=0
+Pragma: no-cache
+Last-Modified: Mon, 30 Oct 2017 21:37:48 GMT
+Vary: Accept-Encoding,User-Agent
+Content-Encoding: gzip
+Content-Type: text/html; charset=ISO-8859-1
+X-Cacheable: NO:Cache-Control=no-cache
+Date: Mon, 30 Oct 2017 21:39:19 GMT
+X-Varnish: 3737713572
+Age: 0
+Via: 1.1 varnish
+X-Cache: MISS

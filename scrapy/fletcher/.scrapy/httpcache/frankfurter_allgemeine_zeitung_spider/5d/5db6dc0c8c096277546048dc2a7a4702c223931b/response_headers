@@ -1,0 +1,9 @@
+Server: nginx
+Content-Type: text/html;charset=utf-8
+Cache-Control: max-age=300, public
+Last-Modified: Sun, 29 Oct 2017 23:40:33 GMT
+P3P: policyref="/w3c/p3p.xml", CP="NOI DSP CURa ADMa DEVa TAIi PSAi PSDi OUR STP UNI COM NAV INT STA PRE"
+Content-Encoding: gzip
+Vary: Accept-Encoding
+Accept-Ranges: bytes
+Date: Sun, 29 Oct 2017 23:42:42 GMT

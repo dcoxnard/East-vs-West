@@ -1,0 +1,28 @@
+!!!!!!!!!!!   CHANGE THE DATE   !!!!!!!!!!!
+
+
+
+
+scrapy crawl augsburger_allgemeine_spider -o augsburger_allgemeine_nov9.json
+
+scrapy crawl badische_zeitung_spider -o badische_zeitung_nov9.json
+
+scrapy crawl berliner_zeitung_spider -o berliner_zeitung_nov9.json
+
+scrapy crawl frankfurter_allgemeine_zeitung_spider -o frankfurter_allgemeine_zeitung_nov9.json
+
+scrapy crawl koelner_stadt_anzeiger_spider -o koelner_stadt_anzeiger_nov9.json
+
+scrapy crawl leipziger_volkszeitung_spider -o leipziger_volkszeitung_nov9.json
+
+scrapy crawl mitteldeutsche_zeitung_spider -o mitteldeutsche_zeitung_nov9.json
+
+scrapy crawl rheinische_post_spider -o rheinische_post_nov9.json
+
+scrapy crawl saechsische_zeitung_spider -o saechsische_zeitung_nov9.json
+
+scrapy crawl stuttgarter_zeitung_spider -o stuttgarter_zeitung_nov9.json
+
+scrapy crawl sueddeutsche_zeitung_spider -o sueddeutsche_zeitung_nov9.json
+
+scrapy crawl weser_kurier_spider -o weser_kurier_nov9.json

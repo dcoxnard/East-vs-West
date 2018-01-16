@@ -1,0 +1,14 @@
+Server: nginx
+Content-Type: text/html; charset=UTF-8
+Vary: Accept-Encoding
+Last-Modified: Sun Oct 29 23:43:05 UTC 2017
+Expires: Sun, 29 Oct 2017 23:43:04 GMT
+Cache-Control: no-cache
+Pragma: no-cache
+Content-Encoding: gzip
+Date: Sun, 29 Oct 2017 23:43:09 GMT
+Set-Cookie: PHPSESSID=d7gdn6cjoe08e8ie21gb1lm4n6; expires=Mon, 29-Oct-2018 23:43:05 GMT; Max-Age=31536000; path=/
+Set-Cookie: langPref=en; expires=Wed, 27-Oct-2027 23:43:05 GMT; Max-Age=315360000; path=/
+Set-Cookie: sgUID=32b4a57d6bff6a68178303ea21aa58a4; expires=Wed, 27-Oct-2027 23:43:05 GMT; Max-Age=315360000; path=/
+Set-Cookie: sid=f29b576584077dfd31d40c62414707b5; expires=Wed, 27-Oct-2027 23:43:05 GMT; Max-Age=315360000; path=/
+Set-Cookie: ooep=nxd; expires=Wed, 27-Oct-2027 23:43:05 GMT; Max-Age=315360000; path=/

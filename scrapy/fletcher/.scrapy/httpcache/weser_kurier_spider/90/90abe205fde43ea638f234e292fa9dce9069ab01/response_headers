@@ -1,0 +1,14 @@
+Server: Apache
+Pragma: no-cache
+Cache-Control: no-store, no-cache, must-revalidate, post-check=0, pre-check=0, proxy-revalidate
+Expires: Mon, 26 Jul 1997 05:00:00 GMT
+X-Servercache-Time: 86400
+X-Servercache-Debug: 1
+Content-Type: text/html; charset=utf-8
+X-Varnishver: varnish 3
+X-Client-Ip: 213.182.17.154
+X-Servercache-Status: OK, caching-time set
+Content-Encoding: gzip
+Date: Mon, 30 Oct 2017 00:59:31 GMT
+Age: 27866
+Via: 1.1 varnish

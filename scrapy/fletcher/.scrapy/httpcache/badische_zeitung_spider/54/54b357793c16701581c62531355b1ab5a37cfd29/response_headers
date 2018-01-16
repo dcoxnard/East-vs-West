@@ -1,0 +1,11 @@
+Server: ovws
+Location: http://www.badische-zeitung.de/sport/
+Vary: Accept-Encoding
+Content-Encoding: gzip
+Content-Type: text/html; charset=iso-8859-1
+X-Cacheable: NO:Not Cacheable
+Date: Mon, 30 Oct 2017 21:44:21 GMT
+X-Varnish: 3737747919
+Age: 0
+Via: 1.1 varnish
+X-Cache: MISS

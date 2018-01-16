@@ -1,0 +1,16 @@
+Server: ovws
+Set-Cookie: PHPSESSID=6240596601cb350b35fd2827d0067f9a76e7c59e00; path=/
+Set-Cookie: DNKV=2017-10_593ae829-34af-49cf-aa14-c1df02b3f694_2_1509399591; expires=Mon, 04-Dec-2017 21:39:51 GMT; path=/
+Expires: Thu, 19 Nov 1981 08:52:00 GMT
+Cache-Control: no-store, no-cache, must-revalidate, post-check=0, pre-check=0
+Pragma: no-cache
+Location: https://www.badische-zeitung.de/racing-strassburg/wenn-sc-freiburg-und-racing-strasbourg-um-nachwuchs-konkurrieren
+Vary: Accept-Encoding,User-Agent
+Content-Encoding: gzip
+Content-Type: text/html; charset=ISO-8859-1
+X-Cacheable: NO:Got Session
+Date: Mon, 30 Oct 2017 21:41:30 GMT
+X-Varnish: 1960260449
+Age: 0
+Via: 1.1 varnish
+X-Cache: MISS

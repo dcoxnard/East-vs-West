@@ -1,0 +1,15 @@
+Server: Apache
+X-Servercache-Time: 0
+X-Servercache-Debug: 1
+Expires: Thu, 19 Nov 1981 08:52:00 GMT
+Cache-Control: no-store, no-cache, must-revalidate, post-check=0, pre-check=0
+Pragma: no-cache
+Set-Cookie: rfFUS=a2213432078ac8b335e6a1fd1ed5c9b9; path=/; secure; HttpOnly
+Content-Type: text/html; charset=utf-8
+X-Varnishver: varnish 3
+X-Client-Ip: 213.182.17.154
+X-Servercache-Status: OK, caching-time set
+Content-Encoding: gzip
+Date: Mon, 30 Oct 2017 01:00:48 GMT
+Age: 0
+Via: 1.1 varnish
